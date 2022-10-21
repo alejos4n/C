@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int main()
+{
 /*Operadores aritmeticos */
 // + add -- suma
 // - subtract -- resta
@@ -41,4 +43,5 @@
 // * The Value of
 //  -> Structure dereference
 //  . Structure reference
-//
+return 0;
+}
